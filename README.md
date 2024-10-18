@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm ELLANKI SIRI</h1>
 <h3 align="center">Passionate python full stack developer</h3>
 
+- 🌱 I’m currently learning **django**
+
 - 📫 How to reach me **siriellanki33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
